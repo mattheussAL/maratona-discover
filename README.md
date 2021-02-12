@@ -1,4 +1,4 @@
-<div align="center" >
+<div align="center">
   <a href="https://rocketseat.com.br">
     <img src="https://github.com/mattheussAL/maratona-discover/blob/main/.github/logo.PNG"/>
   </a>
@@ -7,14 +7,15 @@
 <hr>
 
 <div align="center" >
-  <img src="https://github.com/mattheussAL/maratona-discover/blob/main/.github/Home.PNG" margin="20"/>
+    <img src="https://github.com/mattheussAL/maratona-discover/blob/main/.github/Home.PNG" margin="10"/>
 </div>
 
 ## :mag_right: Sobre
 
 <p>
-  Esse projeto foi construido durante a maratona discover da <a href="https://rocketseat.com.br">@Rocketseat</a>. Contruimos um TODO para armazenar dados financeiros simples.
-  Foi uma ótima experiência para compartilhar conhecimento com desenvolvedores iniciantes, que era o foco desse evento.
+  Esse projeto foi construido durante a maratona discover da <a href="https://rocketseat.com.br">@Rocketseat</a>.
+  Contruimos um CRUD para armazenar dados financeiros simples. Foi uma ótima experiência para compartilhar conhecimento
+  com desenvolvedores iniciantes, que era o foco desse evento.
 </p>
 
 <div >
@@ -30,10 +31,10 @@
 
  ```sh
     # Primeiro clone esse projeto: 
-    $ git clone https://github.com/mattheussAL/dev-finances.git
+    $ git clone https://github.com/mattheussAL/maratona-discover.git
     
     # Entre na pasta do projeto
-    $ cd devfinances
+    $ cd maratona-discover
 
     # Instale as dependências
     $ yarn 
